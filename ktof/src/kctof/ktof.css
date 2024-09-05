@@ -1,0 +1,38 @@
+body{
+    background-image: url(./pngtree-straight-road-and-an-arrow-pointing-in-the-direction-of-the-image_2636753.jpg);
+    background-size: cover;
+}
+h1{
+    text-shadow: 2px 2px 2px white;
+    font-size: 70px;
+}
+
+#one{
+    background-color:  rgba(22, 21, 21, 0.282);
+    width: 500px;
+    height: 150px;
+    padding:50px 50px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-top: 150px;
+    text-align: center;
+}
+#two{
+    background-color: rgba(22, 21, 21, 0.282);
+    margin-left:800px;
+    width: 500px;
+    height: 150px;
+    padding:50px 50px;
+    padding-top: 20px;
+    margin-top: -260px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px rgb(7, 7, 7);
+    color: white;
+}
+h3{
+    color: white;
+}

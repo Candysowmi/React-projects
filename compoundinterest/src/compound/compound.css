@@ -1,0 +1,56 @@
+
+    body{
+        background-image: url(./pngtree-the-power-of-compound-interest-a-3d-render-illustrating-the-growth-image_3812945.jpg);
+        background-size: cover;
+    }
+    .all{
+        background-color: rgba(29, 62, 29, 0.378);
+        width: 430px;
+        height:430px;
+        padding-top: 10px;
+        padding-left: 50px;
+        padding-right: 30px;
+        margin-left:550px;
+        margin-top: 200px;
+    }
+    h2{
+        font-family:'Times New Roman', Times, serif;
+        font-size:30px;
+        font-weight:600;
+        color: white;
+        text-shadow: 2px 2px 2px black;
+    }
+    label{
+        font-size: 20px;
+        font-weight: 600;
+        color: white;
+      
+    }
+    input[type=number]{
+        width: 300px;
+        height: 25px;
+        
+        text-align: left;
+        }
+        button{
+            width: 300px;
+            height: 30px;
+            font-weight: 700;
+            text-align: center;
+            border-radius: 10px;
+        
+        }
+        button:hover{
+            background-color:rgba(29, 62, 29, 0.378) ;
+            color: white;
+            font-weight: 700;
+        }
+        p{
+            color: white;
+            font-weight: 700; 
+            
+            margin: 1PX; 
+            font-size:20px;
+            
+            
+        }

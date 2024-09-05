@@ -1,0 +1,56 @@
+body{
+    background-image: url(./pic.jpg);
+    background-size: cover;
+}
+.all{
+    background-color: rgba(255, 255, 255, 0.164);
+    width: 370px;
+    height:450px;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-left:550px;
+    margin-top: 200px
+    
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+    font-weight:600;
+    text-shadow: 2px 2px 2px white;
+    color: rgb(32, 31, 31);
+}
+label{
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px white;
+  
+}
+input[type=number]{
+    width: 300px;
+    height: 25px;
+    
+    text-align: left;
+    }
+    button{
+        width: 300px;
+        height: 30px;
+        font-weight: 700;
+        text-align: center;
+        border-radius: 10px;
+    
+    }
+    button:hover{
+        background-color:rgb(85, 83, 83) ;
+        color: white;
+        font-weight: 700;
+    }
+    p{
+        color: black;
+        font-weight: 700; 
+        
+        margin: 1PX; 
+        font-size:20px;
+        background-color: rgba(255, 255, 255, 0.227);
+        width: 250px;
+        
+    }
